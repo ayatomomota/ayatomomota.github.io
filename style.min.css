@@ -13,7 +13,7 @@
 
 .main {
   height: 1000px;
-  background-image: url("./image/backgroud_img.jpeg");
+  background-image: url("backgroud_img.jpeg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
