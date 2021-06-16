@@ -1,0 +1,22 @@
+.header {
+  height: 100px;
+  background-color: #660000;
+}
+
+.title {
+  padding: 20px 0 5px 20px;
+  font-size: 50px;
+  font-weight: 600;
+  color: #ffffff;
+  border-bottom: 5px solid #000000;
+}
+
+.main {
+  height: 1000px;
+  background-image: url("./image/backgroud_img.jpeg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-color: rgba(255, 255, 255, 0.5);
+  background-blend-mode: lighten;
+}
